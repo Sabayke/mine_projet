@@ -1,0 +1,17 @@
+.index-table {
+	margin-top: 20px;
+	text-align:center;
+}
+
+.index-table td {
+	text-align: center;
+	font-family: candara,tahoma;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.index-table a {
+	color: #0B4C5F;
+	text-decoration: none;
+}
+
